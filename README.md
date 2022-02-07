@@ -17,13 +17,13 @@
   - Sprinkles
    
 ## 프로젝트
-### 레스토랑 예약 시스템(2018.04.10~2018.04.20)(https://github.com/Luci-Park/ReservationSystem)
+### [레스토랑 예약 시스템(2018.04.10~2018.04.20)](https://github.com/Luci-Park/ReservationSystem)
 > 휴학 중 알바하던 레스토랑을 위해 제작했던 예약관리 시스템
  - 사용 언어: C++, C#
     - 기존에 C++로 진행, CLI 에서 GUI로 전환하며 C#로 전환.
  - 요구사항 분석, 피드백 및 수정 진행
  
- ### There is only one way(2019.08.03~2019.08.06)(https://github.com/Luci-Park/2018GMTKGameJam)
+ ### [There is only one way(2019.08.03~2019.08.06)](https://github.com/Luci-Park/2018GMTKGameJam)
  > [2019 GMTK Game Jam (only one)](https://www.youtube.com/watch?v=o-WrQ77zUvA&t=3s)를 위해 즉석에서 만난 3명의 사람과 함께 48시간 동안 만든 게임
   - unity를 활용한 게임 개발
   - unity cloud를 활용하여 협동 개발
