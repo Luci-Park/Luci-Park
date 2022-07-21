@@ -12,9 +12,9 @@
       - 특허: 가상현실 사운드 기반의 컨텐츠 제공 방법 및 시스템(제2019-0129265호)
    - unity를 활용하여 콘텐츠 개발
 - **어플리케이션**
-  - 사운드스페이스(Sound Space)
+  - [사운드스페이스(Sound Space)](https://play.google.com/store/apps/details?id=mobvr.silverliningstudio.soundspace)
   - 기브레터(Give Letter)
-  - Sprinkles
+  - [Sprinkles](https://play.google.com/store/apps/details?id=mobile.silverliningstudio.sprinkles)
    
 ## 프로젝트
 ### [레스토랑 예약 시스템(2018.04.10~2018.04.20)](https://github.com/Luci-Park/ReservationSystem)
