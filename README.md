@@ -24,7 +24,7 @@
  - 요구사항 분석, 피드백 및 수정 진행
  
  ### [There is only one way(2019.08.03~2019.08.06)](https://github.com/Luci-Park/2018GMTKGameJam)
- > [2019 GMTK Game Jam (only one)](https://www.youtube.com/watch?v=o-WrQ77zUvA&t=3s)를 위해 즉석에서 만난 3명의 사람과 함께 48시간 동안 만든 게임
+ > [2019 GMTK Game Jam (only one)](https://www.youtube.com/watch?v=o-WrQ77zUvA&t=3s)를 위해 즉석에서 만난 3명의 사람과 함께 72시간 동안 만든 게임
   - unity를 활용한 게임 개발
   - unity cloud를 활용하여 협동 개발
  
