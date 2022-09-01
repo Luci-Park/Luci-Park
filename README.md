@@ -14,7 +14,7 @@
 - **어플리케이션**
   - [사운드스페이스(Sound Space)](https://play.google.com/store/apps/details?id=mobvr.silverliningstudio.soundspace)
   - 기브레터(Give Letter)
-  - [Sprinkles](https://play.google.com/store/apps/details?id=mobile.silverliningstudio.sprinkles)
+  - [Sprinkles](https://github.com/Luci-Park/TileFlippingGame)
    
 ## 프로젝트
 ### [레스토랑 예약 시스템(2018.04.10~2018.04.20)](https://github.com/Luci-Park/ReservationSystem)
