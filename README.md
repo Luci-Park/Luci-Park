@@ -32,7 +32,7 @@
   - [사운드스페이스(Sound Space)](https://play.google.com/store/apps/details?id=mobvr.silverliningstudio.soundspace)
   - 기브레터(Give Letter)
   - [Sprinkles](https://github.com/Luci-Park/TileFlippingGame)
-
+---
 ### [큐브세븐틴(2022.08.08 ~ 재직 중)](https://www.quve17.com)
 
 > 치과를 대상으로 한 프로그램 제작 전문 IT 회사, 원격 치과 진료를 위한 네트워크 구축 중
@@ -49,7 +49,7 @@
 - ERP 시스템 제작
   
   - Postman을 활용해 API 연결
-
+---
 ## 🧩프로젝트
 
 ### [Crypt of the Necrodancer 모작(2023.02.14 ~ 2023.05.08)](https://github.com/Luci-Park/CryptOfTheNecrodancer)
@@ -69,7 +69,7 @@
 - Strategy Pattern을 활용한 유연한 바닥 타일 확장
 
 - Observer Pattern으로 움직임을 음악에 동기화
-
+---
 ### [Just Shapes and Beats 모작(2023.05.15 ~ 진행 중)](https://github.com/Luci-Park/JustShapesAndBeats_Clone_DirectX)
 
 > DirectX11, 랜더링 파이프라인과 게임 엔진에 대해 공부하기 위해 만든 리듬탄막 게임
@@ -85,7 +85,7 @@
 - 분리축 이론에 의거한 Oriented Bounding Box 충돌 구현
 
 - 키 프레임 애니메이션 구현
-
+---
 ### [There is only one way(2019.08.03~2019.08.06)](https://github.com/Luci-Park/2018GMTKGameJam)
 
 > [2019 GMTK Game Jam (only one)](https://www.youtube.com/watch?v=o-WrQ77zUvA&t=3s)를 위해 즉석에서 만난 3명의 사람과 함께 72시간 동안 만든 슈팅 던전 크롤러
