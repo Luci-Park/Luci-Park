@@ -3,7 +3,7 @@
 - 이름: 박수민
 
 - 이메일: lucipark05@gmail.com
-
+- 노션: https://park-spring-note.notion.site/About-Me-aecf0965bfb040808b9b641c9339a745?pvs=4
 - 스택
   |분류|종류|
   |---|---|
