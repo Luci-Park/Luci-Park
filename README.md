@@ -5,6 +5,8 @@
 - 이메일: lucipark05@gmail.com
 
 - 스택
+  |분류|종류|
+  |---|---|
   |언어|C++, C#|
   |엔진| Unity|
   |API| DirectX11, Windows API, Photon|
